@@ -1,0 +1,33 @@
+---
+title: "Module 12 - R Markdown"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## RMarkdown
+
+I have used R Markdown ever since the first day I started using RStudio and I much prefer it over the regular R console. I find it much more intuitive as well as organized and it makes creating neat documents with text and descriptions very easy and have used it for every assignment I have submitted thus far. I even use it for papers for non-R related classes such as for a paper in a writing class.
+
+There are a ton of different formatting and output options in R Markdown such as *italics*, **bold**
+
+#Different
+##Heading
+###Styles
+
+[Embedded Links](www.google.com)  and 
+
+images ![](C:/Users/adamw/pictures/termpaperdata.png)
+
+
+And of course the ability to insert code and either hide the code itself, the output, both or neither through the parameters of the chunk. 
+
+```{r}
+str(mtcars)
+```
+
+It also knits the documents in a neatly organized PDF, HTML or other downloadable templates such as APA format or as a GitHub export. 
+
+There are countless ways to modify a document in RMarkdown but its flexibility and intuitiveness lets it create nearly any formatted document that you could imagine.
