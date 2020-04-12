@@ -18,7 +18,7 @@ Heading
 
 [Embedded Links](www.google.com) and
 
-images ![](C:/Users/adamw/pictures/termpaperdata.png)
+![images](https://i.gyazo.com/75dd5197915af5dc9174dd5b24fed389.png)
 
 And of course the ability to insert code and either hide the code itself, the output, both or neither through the parameters of the chunk.
 
