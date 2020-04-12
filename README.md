@@ -16,7 +16,7 @@ Heading
 
 ### Styles
 
-[Embedded Links](www.google.com) and
+[Embedded Links](www.google.com) and images
 
 ![images](https://i.gyazo.com/75dd5197915af5dc9174dd5b24fed389.png)
 
